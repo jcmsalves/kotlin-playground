@@ -8,8 +8,9 @@ The idea is that the project grows with each article published so I'll tag each 
 ----
 
 ### Articles Index
-1. [Android and Kotlin — the starting point](https://medium.com/@jcmsalves/android-and-kotlin-the-starting-point-b90f473e1e14 "Android and Kotlin — the starting point")
+1. [Android and Kotlin — basic Hello World](https://medium.com/@jcmsalves/android-and-kotlin-basic-hello-world-b90f473e1e14
+ "Android and Kotlin — basic Hello World")
 
 ----
 
-You have any cool ideas or suggestions feel free to open issues in the repo and I'll try to address in a future article.
+If you have any cool ideas or suggestions feel free to open issues in the repo and I'll try to address in a future article.
