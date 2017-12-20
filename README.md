@@ -8,8 +8,9 @@ The idea is that the project grows with each article published so I'll tag each 
 ----
 
 ### Articles Index
-1. [Android and Kotlin — basic Hello World](https://medium.com/@jcmsalves/android-and-kotlin-basic-hello-world-b90f473e1e14
- "Android and Kotlin — basic Hello World")
+1. [Android and Kotlin — basic Hello World](https://medium.com/@jcmsalves/android-and-kotlin-basic-hello-world-b90f473e1e14 "Android and Kotlin — basic Hello World")
+
+2. [Kotlin Syntax Part I — why am I excluded?](https://medium.com/@jcmsalves/kotlin-syntax-part-i-why-am-i-excluded-86772a61fade "Kotlin Syntax Part I — why am I excluded?")
 
 ----
 
