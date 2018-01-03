@@ -12,6 +12,9 @@ The idea is that the project grows with each article published so I'll tag each 
 
 2. [Kotlin Syntax Part I — why am I excluded?](https://medium.com/@jcmsalves/kotlin-syntax-part-i-why-am-i-excluded-86772a61fade "Kotlin Syntax Part I — why am I excluded?")
 
+3. [Kotlin Syntax Part II — when did this switch happen?](https://medium.com/@jcmsalves/kotlin-syntax-part-ii-when-did-this-switch-happen-a95a78f37962 "Kotlin Syntax Part II — when did this switch happen?")
+
+
 ----
 
 If you have any cool ideas or suggestions feel free to open issues in the repo and I'll try to address in a future article.
