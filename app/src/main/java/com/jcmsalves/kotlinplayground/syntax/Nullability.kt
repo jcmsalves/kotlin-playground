@@ -4,7 +4,7 @@ class Nullability {
 
     fun NonNullString() {
         var nonNullString: String = "some string"
-        nonNullString = null // compilation error
+//        nonNullString = null // compilation error
     }
 
     fun NullString() {
@@ -17,8 +17,8 @@ class Nullability {
         var length :Int
         var lengthOrNull :Int?
 
-        nullString.length // compilation error
-        length = nullString?.length
+//        nullString.length // compilation error
+//        length = nullString?.length // compilation error
         lengthOrNull = nullString?.length
     }
 
@@ -26,7 +26,7 @@ class Nullability {
         var nullString: String? = "some string"
         var length :Int
 
-        nullString.length // compilation error
+//        nullString.length // compilation error
         length = nullString?.length ?: -1
     }
 

@@ -14,6 +14,8 @@ The idea is that the project grows with each article published so I'll tag each 
 
 3. [Kotlin Syntax Part II — when did this switch happen?](https://medium.com/@jcmsalves/kotlin-syntax-part-ii-when-did-this-switch-happen-a95a78f37962 "Kotlin Syntax Part II — when did this switch happen?")
 
+4. [Kotlin data classes — enough boilerplate](https://medium.com/@jcmsalves/kotlin-data-classes-enough-boilerplate-c4647e475485 "Kotlin data classes — enough boilerplate")
+
 
 ----
 
