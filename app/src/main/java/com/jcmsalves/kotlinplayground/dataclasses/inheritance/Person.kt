@@ -14,6 +14,6 @@ data class Adult(override val name: String, override val age: Int, override val 
     override fun hasResponsibilities(): Boolean = true
 }
 
-data class Children(override val name: String, override val age: Int, override val email: String = "") : Person {
+data class Child(override val name: String, override val age: Int, override val email: String = "") : Person {
     override fun hasResponsibilities(): Boolean = false
 }
