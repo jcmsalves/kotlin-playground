@@ -16,6 +16,8 @@ The idea is that the project grows with each article published so I'll tag each 
 
 4. [Kotlin data classes — enough boilerplate](https://medium.com/@jcmsalves/kotlin-data-classes-enough-boilerplate-c4647e475485 "Kotlin data classes — enough boilerplate")
 
+5. [Parcelable in Kotlin? Here comes Parcelize](https://proandroiddev.com/parcelable-in-kotlin-here-comes-parcelize-b998d5a5fcac "Parcelable in Kotlin? Here comes Parcelize")
+
 
 ----
 
