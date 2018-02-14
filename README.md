@@ -18,6 +18,8 @@ The idea is that the project grows with each article published so I'll tag each 
 
 5. [Parcelable in Kotlin? Here comes Parcelize](https://proandroiddev.com/parcelable-in-kotlin-here-comes-parcelize-b998d5a5fcac "Parcelable in Kotlin? Here comes Parcelize")
 
+5. [Kotlin Sealed Classes —  enums with swag](https://medium.com/@jcmsalves/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4 "Kotlin Sealed Classes —  enums with swag")
+
 
 ----
 
