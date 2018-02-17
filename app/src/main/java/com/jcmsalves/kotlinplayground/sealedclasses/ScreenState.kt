@@ -3,7 +3,7 @@ package com.jcmsalves.kotlinplayground.sealedclasses
 sealed class ScreenState {
     class Error : ScreenState()
     class Loading : ScreenState()
-    class Data(val someData: SomeData) : ScreenState()
+    data class Data(val someData: SomeData) : ScreenState()
 }
 
 fun setScreenState(screenState: ScreenState) {
