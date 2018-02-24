@@ -16,5 +16,4 @@ class ConditionalExpressions {
 
     fun biggestWordAsExpression(someWord: String, anotherWord: String) =
         if (someWord.length > anotherWord.length) someWord else anotherWord
-
 }

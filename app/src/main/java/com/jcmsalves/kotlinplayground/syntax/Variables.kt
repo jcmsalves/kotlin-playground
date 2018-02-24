@@ -11,7 +11,6 @@ fun Variables() {
 
     var mutableInferredTypeString = "some string"
     mutableInferredTypeString += "some concat"
-
 }
 
 class MutableValExample(val yearOfBirth: Int) {

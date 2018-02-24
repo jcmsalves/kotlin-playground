@@ -14,5 +14,5 @@ enum class SemiColonRequired {
 
 fun semicolon() {
     var list = 1..10
-    list.forEach { val result = it * 2; println("$it times 2 is $result")}
+    list.forEach { val result = it * 2; println("$it times 2 is $result") }
 }

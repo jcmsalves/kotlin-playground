@@ -1,6 +1,5 @@
 package com.jcmsalves.kotlinplayground.syntax
 
-
 class Ranges {
 
     fun simpleRange(number: Number) {
@@ -33,5 +32,4 @@ class Ranges {
             println(i)
         }
     }
-
 }
