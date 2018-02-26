@@ -20,7 +20,7 @@ The idea is that the project grows with each article published so I'll tag each 
 
 6. [Kotlin Sealed Classes —  enums with swag](https://medium.com/@jcmsalves/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4 "Kotlin Sealed Classes —  enums with swag")
 
-7. [Kotlin Static Analysis — why and how?](https://medium.com/r/?url=https%3A%2F%2Fproandroiddev.com%2Fkotlin-static-analysis-why-and-how-a12042e34a98 "Kotlin Static Analysis — why and how?")
+7. [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98 "Kotlin Static Analysis — why and how?")
 
 
 ----
