@@ -13,7 +13,7 @@ enum class ScreenStateField(val someData: SomeData) {
 }
 
 fun setBasicScreenState(basicScreenState: BasicScreenState) {
-    when(basicScreenState) {
+    when (basicScreenState) {
         BasicScreenState.ERROR -> { /* set error state in the view */ }
         BasicScreenState.LOADING -> { /* set loading state in the view */ }
         BasicScreenState.DATA -> { /* hide loading or error states in the view */ }

@@ -5,7 +5,7 @@ interface Person {
     val age: Int
     val email: String
 
-    fun hasResponsibilities() : Boolean
+    fun hasResponsibilities(): Boolean
 }
 
 data class Adult(override val name: String, override val age: Int, override val email: String) : Person {

@@ -21,7 +21,7 @@ class ClassWithAccessModifier public constructor (val name: String) {
 }
 
 class ClassWithInitialization public constructor (val name: String) {
-    val nameLength : Int
+    val nameLength: Int
 
     init {
         nameLength = name.length
@@ -55,4 +55,3 @@ class InterfaceImplementation : InterfaceExample {
         //Some implementation
     }
 }
-

@@ -7,7 +7,7 @@ sealed class ScreenState {
 }
 
 fun setScreenState(screenState: ScreenState) {
-    when(screenState) {
+    when (screenState) {
         is ScreenState.Loading -> { /* set loading state in the view */ }
         is ScreenState.Data -> {
             /* hide loading or error states in the view and display data*/

@@ -18,7 +18,9 @@ The idea is that the project grows with each article published so I'll tag each 
 
 5. [Parcelable in Kotlin? Here comes Parcelize](https://proandroiddev.com/parcelable-in-kotlin-here-comes-parcelize-b998d5a5fcac "Parcelable in Kotlin? Here comes Parcelize")
 
-5. [Kotlin Sealed Classes —  enums with swag](https://medium.com/@jcmsalves/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4 "Kotlin Sealed Classes —  enums with swag")
+6. [Kotlin Sealed Classes —  enums with swag](https://medium.com/@jcmsalves/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4 "Kotlin Sealed Classes —  enums with swag")
+
+7. [Kotlin Static Analysis — why and how?](https://medium.com/r/?url=https%3A%2F%2Fproandroiddev.com%2Fkotlin-static-analysis-why-and-how-a12042e34a98 "Kotlin Static Analysis — why and how?")
 
 
 ----

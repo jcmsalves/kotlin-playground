@@ -14,8 +14,8 @@ class Nullability {
 
     fun SafeCase() {
         var nullString: String? = "some string"
-        var length :Int
-        var lengthOrNull :Int?
+        var length: Int
+        var lengthOrNull: Int?
 
 //        nullString.length // compilation error
 //        length = nullString?.length // compilation error
@@ -24,7 +24,7 @@ class Nullability {
 
     fun ElvisOperator() {
         var nullString: String? = "some string"
-        var length :Int
+        var length: Int
 
 //        nullString.length // compilation error
         length = nullString?.length ?: -1

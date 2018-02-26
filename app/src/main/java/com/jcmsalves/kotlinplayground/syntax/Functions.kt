@@ -4,7 +4,7 @@ fun aFunction(x: Int, y: Int): Int {
     return x + y
 }
 
-fun aFunctionWithExplicitReturnType(x: Int, y: Int): Unit {
+fun aFunctionWithExplicitReturnType(x: Int, y: Int) {
     println("sum of $x and $y is ${x + y}")
 }
 
