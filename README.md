@@ -22,6 +22,8 @@ The idea is that the project grows with each article published so I'll tag each 
 
 7. [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98 "Kotlin Static Analysis — why and how?")
 
+8. [Kotlin backend? Yes it's possible](https://proandroiddev.com/kotlin-backend-yes-it-is-possible-953388acffc3 "Kotlin backend? Yes it's possible")
+
 
 ----
 

@@ -18,11 +18,18 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    packagingOptions {
+        exclude 'META-INF/*'
+    }
+
     buildToolsVersion '26.0.2'
 }
 
 repositories {
     jcenter()
+    mavenCentral()
+    maven { url "http://dl.bintray.com/kotlin/ktor" }
+    maven { url "https://dl.bintray.com/kotlin/kotlinx" }
 }
 
 configurations {
@@ -37,7 +44,7 @@ dependencies {
 
     // AutoValue
     compileOnly "com.google.auto.value:auto-value:1.5"
-    kapt "com.google.auto.value:auto-value:1.5"
+    annotationProcessor "com.google.auto.value:auto-value:1.5"
 
     // ktlint
     ktlint "com.github.shyiko:ktlint:0.15.0"
@@ -45,6 +52,10 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+
+    // ktor
+    compile "io.ktor:ktor:$ktor_version"
+    compile "io.ktor:ktor-server-netty:$ktor_version"
 }
 
 task ktlint(type: JavaExec, group: "verification") {
