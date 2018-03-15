@@ -23,12 +23,12 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun runServer() {
-        val jsonResponse = "  {\n" +
-            "    \"id\": 1,\n" +
-            "    \"name\": \"Joao Alves\",\n" +
-            "    \"username\": \"joao.alves\",\n" +
-            "    \"email\": \"joao.alves@example.com\"\n" +
-            "  }"
+        val jsonResponse = """{
+                "id": 1,
+                "name": "Joao Alves",
+                "username": "joao.alves",
+                "email": "joao.alves@example.com"
+            }"""
 
         embeddedServer(Netty, 8080) {
             routing {
