@@ -24,6 +24,8 @@ The idea is that the project grows with each article published so I'll tag each 
 
 8. [Kotlin backend? Yes it's possible](https://proandroiddev.com/kotlin-backend-yes-it-is-possible-953388acffc3 "Kotlin backend? Yes it's possible")
 
+9. [Kotlin standard functions — just another guide](https://proandroiddev.com/kotlin-standard-functions-just-another-guide-8c639181ceb1 "Kotlin standard functions — just another guide")
+
 
 ----
 
