@@ -26,6 +26,7 @@ The idea is that the project grows with each article published so I'll tag each 
 
 9. [Kotlin standard functions — just another guide](https://proandroiddev.com/kotlin-standard-functions-just-another-guide-8c639181ceb1 "Kotlin standard functions — just another guide")
 
+10. [Kotlin runtime checks — require and check](https://proandroiddev.com/kotlin-runtime-checks-require-and-check-435b590fbe2d "Kotlin runtime checks — require and check")
 
 ----
 
