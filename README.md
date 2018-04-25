@@ -28,6 +28,8 @@ The idea is that the project grows with each article published so I'll tag each 
 
 10. [Kotlin runtime checks — require and check](https://proandroiddev.com/kotlin-runtime-checks-require-and-check-435b590fbe2d "Kotlin runtime checks — require and check")
 
+11. [Kotlin try-with-resources — use](https://proandroiddev.com/kotlin-try-with-resources-use-315eefc84b3f "Kotlin try-with-resources — use")
+
 ----
 
 If you have any cool ideas or suggestions feel free to open issues in the repo and I'll try to address in a future article.
