@@ -8,27 +8,29 @@ The idea is that the project grows with each article published so I'll tag each 
 ----
 
 ### Articles Index
-1. [Android and Kotlin — basic Hello World](https://medium.com/@jcmsalves/android-and-kotlin-basic-hello-world-b90f473e1e14 "Android and Kotlin — basic Hello World")
+1. [Android and Kotlin — basic Hello World](https://joaoalves.dev/posts/kotlin-playground/android-and-kotlinbasic-hello-world "Android and Kotlin — basic Hello World")
 
-2. [Kotlin Syntax Part I — why am I excluded?](https://medium.com/@jcmsalves/kotlin-syntax-part-i-why-am-i-excluded-86772a61fade "Kotlin Syntax Part I — why am I excluded?")
+2. [Kotlin Syntax Part I — why am I excluded?](https://joaoalves.dev/posts/kotlin-playground/kotlin-syntax-part-i-why-am-i-excluded "Kotlin Syntax Part I — why am I excluded?")
 
-3. [Kotlin Syntax Part II — when did this switch happen?](https://medium.com/@jcmsalves/kotlin-syntax-part-ii-when-did-this-switch-happen-a95a78f37962 "Kotlin Syntax Part II — when did this switch happen?")
+3. [Kotlin Syntax Part II — when did this switch happen?](https://joaoalves.dev/posts/kotlin-playground/kotlin-syntax-part-ii-when-did-this-switch-happen "Kotlin Syntax Part II — when did this switch happen?")
 
-4. [Kotlin data classes — enough boilerplate](https://medium.com/@jcmsalves/kotlin-data-classes-enough-boilerplate-c4647e475485 "Kotlin data classes — enough boilerplate")
+4. [Kotlin data classes — enough boilerplate](https://joaoalves.dev/posts/kotlin-playground/kotlin-data-classes-enough-boilerplate "Kotlin data classes — enough boilerplate")
 
-5. [Parcelable in Kotlin? Here comes Parcelize](https://proandroiddev.com/parcelable-in-kotlin-here-comes-parcelize-b998d5a5fcac "Parcelable in Kotlin? Here comes Parcelize")
+5. [Parcelable in Kotlin? Here comes Parcelize](https://joaoalves.dev/posts/kotlin-playground/parcelable-in-kotlin-here-comes-parcelize "Parcelable in Kotlin? Here comes Parcelize")
 
-6. [Kotlin Sealed Classes —  enums with swag](https://medium.com/@jcmsalves/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4 "Kotlin Sealed Classes —  enums with swag")
+6. [Kotlin Sealed Classes —  enums with swag](https://joaoalves.dev/posts/kotlin-playground/kotlin-sealed-classes-enums-with-swag "Kotlin Sealed Classes —  enums with swag")
 
-7. [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98 "Kotlin Static Analysis — why and how?")
+7. [Kotlin Static Analysis — why and how?](https://joaoalves.dev/posts/kotlin-playground/kotlin-static-analysis-why-and-how "Kotlin Static Analysis — why and how?")
 
-8. [Kotlin backend? Yes it's possible](https://proandroiddev.com/kotlin-backend-yes-it-is-possible-953388acffc3 "Kotlin backend? Yes it's possible")
+8. [Kotlin backend? Yes it's possible](https://joaoalves.dev/posts/kotlin-playground/kotlin-backend-yes-its-possible "Kotlin backend? Yes it's possible")
 
-9. [Kotlin standard functions — just another guide](https://proandroiddev.com/kotlin-standard-functions-just-another-guide-8c639181ceb1 "Kotlin standard functions — just another guide")
+9. [Kotlin standard functions — just another guide](https://joaoalves.dev/posts/kotlin-playground/kotlin-standard-functions-just-another-guide "Kotlin standard functions — just another guide")
 
-10. [Kotlin runtime checks — require and check](https://proandroiddev.com/kotlin-runtime-checks-require-and-check-435b590fbe2d "Kotlin runtime checks — require and check")
+10. [Kotlin runtime checks — require and check](https://joaoalves.dev/posts/kotlin-playground/kotlin-runtime-checks-require-and-check "Kotlin runtime checks — require and check")
 
-11. [Kotlin try-with-resources — use](https://proandroiddev.com/kotlin-try-with-resources-use-315eefc84b3f "Kotlin try-with-resources — use")
+11. [Kotlin try-with-resources — use](https://joaoalves.dev/posts/kotlin-playground/kotlin-trywithresources-use "Kotlin try-with-resources — use")
+
+12. [Kotlin Playground — finish line](https://joaoalves.dev/posts/kotlin-playground/kotlin-playground-finish-line "Kotlin Playgrond - finish line")
 
 ----
 
